@@ -1,0 +1,11 @@
+We are looking for a Junior Python Developer.
+
+Requirements:
+- Python
+- Pandas
+- SQL
+- Git and GitHub
+- REST API knowledge
+- Basic Linux
+- Problem solving
+- Experience with Streamlit is a plus
