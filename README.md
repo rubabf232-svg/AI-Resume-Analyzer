@@ -13,7 +13,7 @@ The application compares a resume with a job description and provides:
 - JSON report download
 - Rule-based fallback when no API key is available
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 - Python
 - Streamlit
